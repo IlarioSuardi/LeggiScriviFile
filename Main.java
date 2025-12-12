@@ -1,7 +1,7 @@
 import java.io.*;
 
-class Main {
-    void main() {
+class Main{
+    void main(){
         try {
             //lettura da file
             FileReader fr = new FileReader("file.txt");
